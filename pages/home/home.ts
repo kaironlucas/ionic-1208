@@ -16,6 +16,8 @@ export class HomePage {
   calc(){
       this.imc = Number(this.peso) / (Number(this.altura) * Number(this.altura));
 
+      
+
     
   }
 
